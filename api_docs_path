@@ -1,6 +1,8 @@
 /about/api
 /about/graphql
 /about/graphqlapi
+/rest/api/application.wadl
+application.wadl
 /about/graphql-api
 /about/rest
 /about/restapi
